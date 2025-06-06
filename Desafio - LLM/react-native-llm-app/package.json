@@ -1,0 +1,26 @@
+{
+  "name": "react-native-llm-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@google/genai": "^1.4.0",
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "expo": "^53.0.0",
+    "express": "^5.1.0",
+    "react": "19.0.0",
+    "react-native": "0.79.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0"
+  },
+  "private": true
+}
